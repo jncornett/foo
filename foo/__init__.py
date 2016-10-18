@@ -1,3 +1,3 @@
 class Foo:
-    def bar():
+    def bar(self):
         return "bar"
