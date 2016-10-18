@@ -1,0 +1,3 @@
+# Foo
+
+a skeleton project
